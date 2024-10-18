@@ -60,6 +60,11 @@ public class Consulta {
 		this.hora = hora;
 	}
 
+	public void setPaciente(Paciente paciente) {
+		// TODO Auto-generated method stub
+		
+	}
+
 
 
 }
